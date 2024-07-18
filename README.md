@@ -2,4 +2,4 @@
 
 #### 핵심 프로젝트
 
-<strong>AI PILL</strong> 
+- AI PILL
