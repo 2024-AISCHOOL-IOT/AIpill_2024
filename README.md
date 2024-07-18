@@ -4,4 +4,4 @@
 
 - AI PILL
 
-<img src='../pill.PNG'>
+![image](![pill](https://github.com/user-attachments/assets/3b1e12f1-d6e1-4402-854a-3f58b33f8bdd))
