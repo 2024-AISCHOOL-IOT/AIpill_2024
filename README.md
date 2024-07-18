@@ -3,3 +3,5 @@
 #### 핵심 프로젝트
 
 - AI PILL
+
+<img src='../pill.PNG'>
